@@ -22,11 +22,11 @@ graph TD
     SoftBank -->|$6.5B| AmpereComputing
     SoftBank -->|$5.375B| ABBRobotics
     
-    style Microsoft fill:#4a90e2,stroke:#2e5c8a,stroke-width:3px
-    style OpenAI fill:#10a37f,stroke:#0d8266,stroke-width:3px
-    style Anthropic fill:#d97757,stroke:#b85d3f,stroke-width:3px
-    style Meta fill:#0081fb,stroke:#0066cc,stroke-width:3px
-    style SoftBank fill:#ff6b6b,stroke:#cc5555,stroke-width:3px
+    style Microsoft fill:#60a5fa,stroke:#3b82f6,stroke-width:3px,color:#000
+    style OpenAI fill:#34d399,stroke:#10b981,stroke-width:3px,color:#000
+    style Anthropic fill:#fb923c,stroke:#f97316,stroke-width:3px,color:#000
+    style Meta fill:#3b82f6,stroke:#2563eb,stroke-width:3px,color:#fff
+    style SoftBank fill:#f87171,stroke:#ef4444,stroke-width:3px,color:#000
 ```
 
 ## Investment Flow Diagram
@@ -78,23 +78,23 @@ flowchart LR
     SoftBank -->|$6.5B| AmpereComputing
     SoftBank -->|$5.375B| ABBRobotics
     
-    style Microsoft fill:#ff6b6b
-    style Google fill:#4285f4
-    style Amazon fill:#ff9900
-    style Meta fill:#0081fb
-    style SoftBank fill:#ff6b6b
-    style OpenAI fill:#10a37f
-    style Anthropic fill:#d97757
-    style ScaleAI fill:#4ecdc4
-    style CoreWeave fill:#4ecdc4
-    style PerplexityAI fill:#ffe66d
-    style AmpereComputing fill:#ffe66d
-    style ABBRobotics fill:#ffe66d
-    style WeightsBiases fill:#a8e6cf
-    style io fill:#a8e6cf
-    style Statsig fill:#a8e6cf
-    style OpenPipe fill:#a8e6cf
-    style MonolithAI fill:#a8e6cf
+    style Microsoft fill:#60a5fa,color:#000
+    style Google fill:#60a5fa,color:#000
+    style Amazon fill:#fbbf24,color:#000
+    style Meta fill:#3b82f6,color:#fff
+    style SoftBank fill:#f87171,color:#000
+    style OpenAI fill:#34d399,color:#000
+    style Anthropic fill:#fb923c,color:#000
+    style ScaleAI fill:#22d3ee,color:#000
+    style CoreWeave fill:#22d3ee,color:#000
+    style PerplexityAI fill:#fde047,color:#000
+    style AmpereComputing fill:#fde047,color:#000
+    style ABBRobotics fill:#fde047,color:#000
+    style WeightsBiases fill:#86efac,color:#000
+    style io fill:#86efac,color:#000
+    style Statsig fill:#86efac,color:#000
+    style OpenPipe fill:#86efac,color:#000
+    style MonolithAI fill:#86efac,color:#000
 ```
 
 ## Investment Timeline
@@ -205,23 +205,23 @@ flowchart LR
     B7 --> C1
     B8 --> C2
     
-    style A1 fill:#ff6b6b
-    style A2 fill:#4285f4
-    style A3 fill:#ff9900
-    style A4 fill:#ff6b6b
-    style B1 fill:#10a37f
-    style B2 fill:#10a37f
-    style B3 fill:#10a37f
-    style B4 fill:#ff6b6b
-    style B5 fill:#ff6b6b
-    style B6 fill:#ff6b6b
-    style B7 fill:#4ecdc4
-    style B8 fill:#0081fb
-    style C1 fill:#ff6b6b
-    style C2 fill:#0081fb
-    style C3 fill:#95e1d3
-    style C4 fill:#95e1d3
-    style C5 fill:#10a37f
+    style A1 fill:#60a5fa,color:#000
+    style A2 fill:#60a5fa,color:#000
+    style A3 fill:#fbbf24,color:#000
+    style A4 fill:#60a5fa,color:#000
+    style B1 fill:#34d399,color:#000
+    style B2 fill:#34d399,color:#000
+    style B3 fill:#34d399,color:#000
+    style B4 fill:#60a5fa,color:#000
+    style B5 fill:#f87171,color:#000
+    style B6 fill:#f87171,color:#000
+    style B7 fill:#22d3ee,color:#000
+    style B8 fill:#3b82f6,color:#fff
+    style C1 fill:#60a5fa,color:#000
+    style C2 fill:#3b82f6,color:#fff
+    style C3 fill:#a78bfa,color:#000
+    style C4 fill:#a78bfa,color:#000
+    style C5 fill:#34d399,color:#000
 ```
 
 ## Major Investment Projects
@@ -240,11 +240,11 @@ graph TD
     Stargate --> DataCenters[Data Centers]
     Stargate --> Energy[Energy Solutions]
     
-    style Stargate fill:#ff6b6b,stroke:#cc5555,stroke-width:4px
-    style OpenAI fill:#10a37f
-    style SoftBank fill:#ff6b6b
-    style Oracle fill:#f80000
-    style MGX fill:#00a859
+    style Stargate fill:#f87171,stroke:#ef4444,stroke-width:4px,color:#000
+    style OpenAI fill:#34d399,color:#000
+    style SoftBank fill:#f87171,color:#000
+    style Oracle fill:#ef4444,color:#fff
+    style MGX fill:#10b981,color:#000
 ```
 
 ### AI Infrastructure Partnership
@@ -261,11 +261,11 @@ graph TD
     Partnership --> DataCenters[Data Centers]
     Partnership --> Energy[Energy Facilities]
     
-    style Partnership fill:#4ecdc4,stroke:#3ba89a,stroke-width:3px
-    style Microsoft fill:#4a90e2
-    style Nvidia fill:#76b900
-    style xAI fill:#000000
-    style BlackRock fill:#00d4ff
+    style Partnership fill:#22d3ee,stroke:#06b6d4,stroke-width:3px,color:#000
+    style Microsoft fill:#60a5fa,color:#000
+    style Nvidia fill:#84cc16,color:#000
+    style xAI fill:#fbbf24,color:#000
+    style BlackRock fill:#06b6d4,color:#000
 ```
 
 ## Investment Matrix

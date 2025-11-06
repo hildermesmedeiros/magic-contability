@@ -862,6 +862,178 @@ mindmap
       But More Funding
 ```
 
+## Legal and Regulatory Context
+
+### US Labor Laws and Layoffs
+
+```mermaid
+graph TD
+    A[US Law Framework] --> B[Section 174 Tax Code]
+    A --> C[Federal WARN Act 1988]
+    A --> D[State Mini-WARN Laws]
+    A --> E[2025 Federal Layoffs]
+    
+    B --> B1[TCJA 2017<br/>Effective 2022]
+    B1 --> B2[5-Year Amortization<br/>vs Immediate Deduction]
+    B2 --> B3[500,000+ Tech Layoffs<br/>Since 2022]
+    B2 --> B4[169,000 Jobs Lost<br/>Annually]
+    B2 --> B5[$10.1B R&D Lost<br/>Annually]
+    
+    C --> C1[60-day notice required<br/>100+ employees<br/>50+ layoffs at single site]
+    C --> C2[Exceptions: Unforeseeable<br/>circumstances, disasters]
+    
+    D --> D1[California: 75+ employees<br/>50+ layoffs]
+    D --> D2[New York: 50+ employees<br/>90-day notice<br/>25+ layoffs]
+    D --> D3[NY Proposed: AI disclosure<br/>requirement for layoffs]
+    
+    E --> E1[300,000 federal workers<br/>laid off in 2025]
+    E --> E2[Executive order removed<br/>employment protections]
+    E --> E3[Not subject to WARN Act<br/>Limited protections]
+    
+    style A fill:#60a5fa,color:#000
+    style B fill:#ef4444,color:#fff
+    style B1 fill:#f87171,color:#000
+    style B2 fill:#f87171,color:#000
+    style B3 fill:#ef4444,color:#fff
+    style B4 fill:#f87171,color:#000
+    style B5 fill:#f87171,color:#000
+    style C fill:#34d399,color:#000
+    style D fill:#22d3ee,color:#000
+    style E fill:#f87171,color:#000
+    style C1 fill:#86efac,color:#000
+    style C2 fill:#fbbf24,color:#000
+    style D3 fill:#fde047,color:#000
+    style E1 fill:#ef4444,color:#fff
+    style E2 fill:#f87171,color:#000
+    style E3 fill:#fb923c,color:#000
+```
+
+### Key Findings: Section 174 Tax Code Change - MAJOR IMPACT
+
+**Section 174 of the Tax Code - CRITICAL CHANGE (Effective 2022)**
+
+- **Tax Cuts and Jobs Act (TCJA) 2017**: Changed Section 174 R&D expense treatment
+- **Effective Date**: January 1, 2022
+- **What Changed**: 
+  - **Before**: Companies could immediately deduct R&D expenses in the year incurred
+  - **After**: Must amortize R&D expenses over **5 years** (domestic) or **15 years** (foreign)
+- **Impact**: Massive increase in taxable income and tax liabilities for R&D-heavy companies
+
+**Direct Impact on Tech Layoffs:**
+- **500,000+ tech workers laid off** since Section 174 took effect in 2022
+- Affects companies like Meta, Microsoft, and startups
+- R&D roles disproportionately impacted
+- Companies forced to cut costs due to unexpected tax bills
+
+**Economic Impact:**
+- **169,000 jobs lost** annually due to Section 174
+- **$10.1 billion** in direct R&D investment lost annually
+- **260,000 jobs lost in 2023 alone** (National Association of Manufacturers estimate)
+- Cash flow problems forcing layoffs and hiring freezes
+
+**Federal Labor Laws (Unchanged)**
+- **WARN Act (1988)**: Primary federal law governing mass layoffs - **NO CHANGES** since 1988
+- Requires 60-day notice for companies with 100+ employees laying off 50+ at a single site
+- Includes exceptions for unforeseeable business circumstances
+
+**State-Level Changes**
+- **New York**: Proposed amendment to WARN Act requiring disclosure if layoffs are AI-related
+  - Status: **Proposed, not yet enacted** (as of 2025)
+  - Would require employers to disclose AI adoption as reason for layoffs
+  - Would provide data on AI's impact on employment
+- **California & Other States**: Have "mini-WARN" laws with stricter requirements, but **no recent changes**
+
+**Federal Government Layoffs (2025)**
+- **300,000 federal workers** laid off in 2025
+- Implemented through executive order removing employment protections
+- **Not subject to WARN Act** (applies to private sector)
+- May create different regulatory environment, but doesn't directly explain private company layoffs
+
+### Section 174 Impact: The Tax Code Change That Triggered Layoffs
+
+```mermaid
+graph TD
+    A[Section 174 Change<br/>Effective 2022] --> B[5-Year Amortization<br/>Instead of Immediate Deduction]
+    
+    B --> C[Increased Taxable Income]
+    C --> D[Higher Tax Bills]
+    D --> E[Cash Flow Problems]
+    
+    E --> F1[500,000+ Tech Layoffs]
+    E --> F2[169,000 Jobs Lost Annually]
+    E --> F3[$10.1B R&D Investment Lost]
+    E --> F4[260,000 Jobs Lost in 2023]
+    
+    F1 --> G[Companies Affected]
+    G --> G1[Meta]
+    G --> G2[Microsoft]
+    G --> G3[Startups]
+    G --> G4[AI Companies]
+    
+    style A fill:#ef4444,color:#fff
+    style B fill:#f87171,color:#000
+    style C fill:#fb923c,color:#000
+    style D fill:#f87171,color:#000
+    style E fill:#f87171,color:#000
+    style F1 fill:#ef4444,color:#fff
+    style F2 fill:#f87171,color:#000
+    style F3 fill:#f87171,color:#000
+    style F4 fill:#f87171,color:#000
+```
+
+### Why Tech Companies Are Laying Off
+
+```mermaid
+graph LR
+    A[Tech Layoffs] --> B[Tax Code Change]
+    A --> C[Business Reasons]
+    
+    B --> B1[Section 174: 5-Year<br/>Amortization]
+    B --> B2[Increased Tax<br/>Liabilities]
+    B --> B3[Cash Flow<br/>Problems]
+    B --> B4[500,000+ Layoffs<br/>Since 2022]
+    
+    C --> C1[Poor ROI on AI]
+    C --> C2[Cost Cutting]
+    C --> C3[Restructuring]
+    C --> C4[Market Conditions]
+    
+    style A fill:#f87171,color:#000
+    style B fill:#ef4444,color:#fff
+    style C fill:#fb923c,color:#000
+    style B1 fill:#ef4444,color:#fff
+    style B2 fill:#f87171,color:#000
+    style B3 fill:#f87171,color:#000
+    style B4 fill:#ef4444,color:#fff
+    style C1 fill:#f87171,color:#000
+    style C2 fill:#f87171,color:#000
+    style C3 fill:#f87171,color:#000
+    style C4 fill:#f87171,color:#000
+```
+
+### Legal Context Summary
+
+**For Private Tech Companies (Meta, etc.):**
+- **Section 174 Tax Code Change (2022)**: **MAJOR FACTOR** in tech layoffs
+  - Changed R&D expense deduction from immediate to 5-year amortization
+  - Directly linked to **500,000+ tech layoffs** since 2022
+  - Increased tax liabilities forcing cost-cutting measures
+  - Estimated **169,000 jobs lost annually** due to this change
+- WARN Act requirements remain the same (60-day notice)
+- Layoffs are due to combination of:
+  - **Section 174 tax code change** (increased tax burden)
+  - Business performance issues (95% no ROI)
+  - Cost reduction needs (exacerbated by tax changes)
+  - Restructuring after failed investments
+  - Market conditions and bubble concerns
+
+**Potential Future Changes:**
+- New York's proposed AI disclosure requirement (if enacted) would require companies to report if layoffs are AI-related
+- Could provide better data on AI's employment impact
+- Would not prevent layoffs, only require transparency
+
+**Conclusion:** The layoffs (like Meta's 600 AI employees) are **significantly explained by Section 174 tax code changes** that took effect in 2022, combined with the business realities documented in this report. The requirement to amortize R&D expenses over 5 years instead of deducting immediately has created massive tax liabilities, cash flow problems, and forced cost-cutting measures including layoffs. This tax change is directly linked to **500,000+ tech layoffs** since 2022, making it a critical factor alongside poor ROI, financial losses, and restructuring needs.
+
 ## How to Update with AI
 
 1. **Data Extraction**: Use AI to extract investment data from news articles, press releases, SEC filings, or financial reports
@@ -888,6 +1060,19 @@ mindmap
 - **Wikipedia**: AI bubble concerns, Builder.ai insolvency, Stability AI legal issues
 - **TechCrunch**: Investor caution on AI investments
 - **S&P Global**: AI investment decline due to financing and IP concerns
+
+### Legal and Regulatory Sources
+- **Axios** (Jan 2024): Section 174 tax code change impact on startups and tech companies
+- **DemState.com**: Section 174 triggering 500,000+ tech layoffs since 2022
+- **Quartz (QZ)**: Tech layoffs linked to Section 174 tax code changes
+- **Corporate Tax Advisors**: Section 174 repeal efforts and economic impact
+- **CEBN**: Section 174 coalition letter on job losses and R&D investment impact
+- **US Department of Labor**: WARN Act requirements and regulations
+- **New York Department of Labor**: State WARN Act and proposed AI disclosure amendments
+- **Wikipedia** (2025): Federal mass layoffs (300,000 workers) and executive orders
+- **Forward Pathway**: Analysis of absence of federal layoff laws and state-level initiatives
+- **MSE Labor Law**: State mini-WARN laws comparison (California, New York)
+- **National Association of Manufacturers**: Section 174 impact estimates (260,000 jobs lost in 2023)
 
 ---
 
